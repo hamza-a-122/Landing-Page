@@ -1,0 +1,274 @@
+
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+
+}
+
+
+
+
+.containers div{
+
+    padding-top: 20px;
+    padding-right: 50px;
+    font-weight: 50;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    
+
+
+
+
+}
+
+
+.containers{
+
+height: 500px;
+width: 100%;
+background-color: lightblue;
+display: flex;
+gap: 25px;
+justify-content: flex-end;
+
+
+
+}
+
+.head{
+
+position: absolute;
+top: -30px;
+left: 130px;
+width: 150px;
+
+
+}
+
+.main_head{
+
+position: absolute;
+font-family: Arial, Helvetica, sans-serif;
+top: 100px;
+left: 150px;
+color: brown;
+
+
+}
+
+.sec_hed{
+
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 140px;
+    left: 150px;
+    color: brown;
+    
+    
+    }
+
+    .cot{
+
+position: absolute;
+top: 130px;
+left: 750px;
+width: 500px;
+height: auto;
+
+
+    }
+
+    .para{
+
+position: absolute;
+top: 190px;
+left: 150px;
+font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: darkcyan;
+font-weight: normal;
+
+    }
+
+
+.containers_2{
+
+position: relative;
+background-color: lightcyan;
+height: 500px;
+width: 100%;
+display: flex;
+gap: 50px;
+
+
+
+
+}
+
+
+
+
+.item{
+
+position: relative;
+border: 10px solid blue;
+left: 300px;
+top: 150px;
+height: 300px;
+width: 200px;
+border-radius: 20px;
+
+
+}
+
+.des{
+
+
+position: absolute;
+left: 550px;
+font-size: 50px;
+top: 30px;
+
+
+
+
+
+}
+
+.containers_3{
+
+background-color: lightblue;
+height: 500px;
+width: 100%;
+
+
+}
+
+
+.tes{
+
+position: relative;
+font-size: 45px;
+font-style: italic;
+padding-left: 250px;
+top: 100px;
+
+
+
+}
+
+
+.name{
+
+    position: relative;
+    font-size: 45px;
+    font-style: italic;
+    padding-left: 470px;
+    top: 110px;
+
+
+
+
+}
+
+
+.s-last{
+
+background: lightcyan;
+height: 300px;
+width: 100%;
+
+
+}
+
+.sig{
+
+position: relative;
+height: 100px;
+width: 750px;
+background-color: blue;
+left: 370px;
+top: 100px;
+
+
+}
+
+.first-se{
+
+position: relative;
+color: white;
+left: 100px;
+top: 20px;
+font-weight: bold;
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+
+
+}
+
+.second-se{
+
+    position: relative;
+    color: white;
+    left: 100px;
+    top: 30px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
+}
+
+.button{
+
+position: absolute;
+width: 125px;
+height: 30px;
+border: 2px solid white;
+left: 520px;
+bottom: 40px;
+border-radius: 5px;
+
+
+}
+
+.strt{
+
+position: relative;
+left: 35px;
+top: 4px;
+color: white;
+
+
+
+}
+
+.final-one{
+
+height: 100px;
+background-color: black;
+
+
+}
+
+.copy{
+
+position: relative;
+color: white;
+padding-left: 700px;
+top: 40px;
+
+}
+
+
+
+
+
+
+
